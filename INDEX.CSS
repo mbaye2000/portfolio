@@ -1,0 +1,201 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  text-decoration: underline;
+}
+
+.barre {
+  background-color: rgb(185, 55, 93);
+  height: 200px;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  font-size: 20px;
+}
+
+body {
+  list-style: none;
+  text-decoration: none;
+}
+
+.search1 {
+  height: 30px;
+  width: 100px;
+}
+
+.search {
+  text-align: center;
+  height: 50px;
+  margin-bottom: 50px;
+}
+
+.inp1 {
+  height: 25px;
+  width: 700px;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.img1 {
+  height: 600px;
+  width: 1500px;
+}
+
+.slogan {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+.img2 {
+  height: 500px;
+  width: 700px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 5px;
+}
+
+.slogan1 {
+  text-align: center;
+  background-color: rgb(238, 238, 238);
+  height: 700px;
+  margin-top: 10px;
+}
+
+.slogan3 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.slogan4 {
+  text-align: end;
+  margin-top: 200px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.img4 {
+  height: 600px;
+  width: 900px;
+}
+
+.galerie {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+
+.ptn {
+  margin-top: 50px;
+  margin-left: 700px;
+  height: 50px;
+}
+
+#contactboite {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(231, 211, 211);
+  margin-top: 90px;
+  height: 700px;
+}
+
+.ip1 {
+  height: 30px;
+  width: 300px;
+  border: solid black;
+  background: transparent;
+  border-radius: 10px;
+}
+
+.ctus {
+  font-size: 50px;
+}
+
+.ip2 {
+  height: 150px;
+  width: 300px;
+  border: solid black;
+}
+
+.submit {
+  margin-top: 30px;
+  margin-left: 120px;
+  height: 30px;
+}
+
+.ip3 {
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: -200px;
+}
+
+.btn4 {
+  height: 10px;
+  width: 9px;
+  margin-top: 21px;
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
+.word {
+  font-size: 50px;
+}
+
+.word2 {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.part1 {
+  background-color: rgb(238, 238, 238);
+}
+
+.img0 {
+  height: 500px;
+  width: 500px;
+}
+
+.picture {
+  display: flex;
+}
+
+.contacte {
+  background-color: rgb(166, 52, 52);
+}
+
+.foot ul {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  gap: 50px;
+}
+
+.foot ul li {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.foot {
+  background-color: rgb(25, 24, 59);
+  height: 250px;
+  margin-top: 100px;
+  color: white;
+}
+
+.icone {
+  height: 50px;
+  width: 50px;
+}
+
+.icone0 {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  padding-top: 50px;
+}
