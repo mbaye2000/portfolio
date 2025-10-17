@@ -1,0 +1,158 @@
+/* navebarre*/
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  font-size: 20px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.search {
+  text-align: center;
+  height: 50px;
+  margin-bottom: 50px;
+}
+
+.search1 {
+  height: 30px;
+  width: 100px;
+}
+
+.inp1 {
+  height: 25px;
+  width: 700px;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  text-decoration: underline;
+}
+
+.barre {
+  background-color: rgb(185, 55, 93);
+  height: 200px;
+}
+
+/* 2eme navebarre*/
+
+.barre2 ul {
+  display: flex;
+  justify-content: start;
+  gap: 50px;
+  font-size: 20px;
+  background-color: rgb(201, 207, 213);
+  height: 50px;
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+/*lotion image*/
+.img2 {
+  height: 40rem;
+  width: 30rem;
+  margin-left: 30rem;
+  margin-top: 80px;
+}
+
+/* galerie*/
+
+.img1 {
+  height: 300px;
+  margin-left: 35rem;
+  margin-top: 30px;
+}
+
+.para {
+  text-align: center;
+  font-size: 20px;
+}
+
+.paragraphe {
+  font-size: 20px;
+}
+
+.boite {
+  height: 30rem;
+  border-radius: 10px;
+}
+
+.galerie {
+  margin-top: 100px;
+}
+
+.galerie:hover {
+  background-color: rgb(220, 215, 201);
+  height: 40rem;
+  border-radius: 10px;
+}
+
+.btn {
+  height: 25px;
+  background-color: rgb(89, 172, 119);
+  text-align: center;
+}
+
+div .galerie {
+  display: flex;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 100px;
+  justify-content: center;
+  column-gap: 50px;
+  row-gap: 10px;
+  background-color: white;
+  border-radius: 10px;
+  padding-bottom: 30px;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+}
+
+.voiture {
+  height: 200px;
+}
+
+.icone0 {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  padding-top: 50px;
+}
+
+.icone {
+  height: 50px;
+  width: 50px;
+}
+
+/*foot*/
+
+.foot ul {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  gap: 50px;
+}
+
+.foot ul li {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.foot {
+  background-color: rgb(25, 24, 59);
+  height: 250px;
+  margin-top: 100px;
+  color: white;
+}
